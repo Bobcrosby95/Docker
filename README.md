@@ -1,1 +1,1 @@
-![Снимок экрана (88).png](..%2F..%2FUsers%2FStrel%2FPictures%2FScreenshots%2F%D1%ED%E8%EC%EE%EA%20%FD%EA%F0%E0%ED%E0%20%2888%29.png)
+![Снимок экрана (88)](https://github.com/Bobcrosby95/Docker/assets/143875175/8dce1f03-99c2-4d6c-8804-331b783fa75a)
